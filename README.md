@@ -13,5 +13,5 @@
 
 ### Current Courses
 BAIS:3300 - Digital Product Management  
-BAIS:4150 - BAIS Capstone
+BAIS:4150 - BAIS Capstone  
 SRM:3148 - Activities & Athletics Administration 
