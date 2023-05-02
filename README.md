@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hi, I'm Karsen. :wave:
 
-<!--
-**karsen4/karsen4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm a senior at the University of Iowa studying Business Analytics & Information Systems with a minor in Sports & Rec Management. I will be graduating in May 2023 and moving to Edina, Minnesota to work as an analyst for Guy Carpenter.
 
-Here are some ideas to get you started:
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/karsen-noble-56595b221) [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://karsennoble.me/) [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/karsennoble)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---  
+
+### Current skills
+![Python badge](https://img.shields.io/static/v1?message=Python&logo=R&labelColor=3776AB&color=3776AB&logoColor=white&label=%20&style=for-the-badge) ![Flask badge](https://img.shields.io/static/v1?message=Flask&logo=Flask&labelColor=000000&color=000000&logoColor=white&label=%20&style=for-the-badge) ![R badge](https://img.shields.io/static/v1?message=R%20Programming&logo=R&labelColor=276DC3&color=276DC3&logoColor=white&label=%20&style=for-the-badge) ![R Studio badge](https://img.shields.io/static/v1?message=R%20Studio&logo=RStudio&labelColor=75AADB&color=75AADB&logoColor=white&label=%20&style=for-the-badge) ![Microsoft Azure badge](https://img.shields.io/static/v1?message=Azure&logo=Microsoft%20Azure&labelColor=0078D4&color=0078D4&logoColor=white&label=%20&style=for-the-badge) 
+
+---
+
+### Current Courses
+BAIS:3300 - Digital Product Management  
+BAIS:4150 - BAIS Capstone
+SRM:3148 - Activities & Athletics Administration 
